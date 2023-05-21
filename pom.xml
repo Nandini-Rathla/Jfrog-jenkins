@@ -24,16 +24,16 @@
     </dependency>
   </dependencies>
   
-  <distributionManagement>
+<distributionManagement>
     <repository>
         <id>central</id>
-        <name>S37-Batch-releases</name>
-        <url>http://18.191.212.94:8081/artifactory/vmtutes-repo</url>
+        <name>DevOps-releases</name>
+        <url>http://18.118.128.8:8081/artifactory/Nandini-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
-        <name>S37-Batch-snapshots</name>
-        <url>http://18.191.212.94:8081/artifactory/vmtutes-repo</url>
+        <name>DevOps-snapshots</name>
+        <url>http://18.118.128.8:8081/artifactory/Nandini-repo</url>
     </snapshotRepository>
 </distributionManagement>
 
